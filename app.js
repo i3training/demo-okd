@@ -13,7 +13,7 @@ app.use('/', route);
 
 // A route that says hello
 route.get('/', function(req, res) {
-    res.send('Hello! This is the index page for the app.\n');
+    res.send('Hello! This is the cobaaaaaaaaaaaaaaa cobaaa coba page for the app.\n');
 });
 
 // A route that returns readiness status
